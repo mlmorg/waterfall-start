@@ -1,6 +1,6 @@
 {
   "name": "waterfall-start",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Helper to pass arguments at the start of an async waterfall",
   "keywords": [],
   "author": "Matt Morgan <matt@mlmorg.com>",
